@@ -11,3 +11,6 @@ source ~/.bashrc # bash
 source ~/.zshrc # zsh
 
 
+NOTE: 
+currently, for this to work, you need to install this program in the exact directory:
+~/me/script
