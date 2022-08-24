@@ -1,6 +1,16 @@
 
 Installation Instructions:
 
+0. Clone this repository to ~/me/script/
+* I will update this eventually to configure anywhere but i'm just adding readme for now
+Open your command line and run the following:
+cd ~
+mkdir -p me
+cd me
+mkdir -p script
+cd script
+git clone 
+
 1. Run the installer script
 If your command line shell is:
 - Bash: run ./installer.sh
